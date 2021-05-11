@@ -35,6 +35,7 @@ namespace GDI_OVERLAY
             // 
             // OverlayTimer
             // 
+            this.OverlayTimer.Enabled = true;
             this.OverlayTimer.Tick += new System.EventHandler(this.OverlayTimer_Tick);
             // 
             // Overlay

@@ -10,7 +10,7 @@ namespace GDI_OVERLAY
         RECT rect;
 
         //Make sure you insert the window name for which you want to draw over
-        public const string WINDOW_NAME = "INSERT WINDOW NAME HERE";
+        public const string WINDOW_NAME = "TEST.txt - Notepad";
         IntPtr handle = FindWindow(null, WINDOW_NAME);
 
         public struct RECT
@@ -79,7 +79,8 @@ namespace GDI_OVERLAY
         private void FormOverlay_Paint(object sender, PaintEventArgs e)
         {
             g = e.Graphics;
-            g.DrawRectangle(myPen, 960, 540, 100, 100);
+            //g.DrawRectangle(myPen, 960, 540, 100, 100);
+            g.DrawRectangle(myPen, 86, 118, 50, 50);
         }
     }
 }
