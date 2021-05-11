@@ -3,11 +3,8 @@ GDI Overlay written in C# using C++ Plugins
 
 ## Getting Started
 Make Changes Overlay.cs to reflect the window you want an overlay for
+
 Line 12 - `public const string WINDOW_NAME = "YOUR WINDOW NAME HERE";`
-
-## Usage
-- 
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
