@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\bin\Debug\GDI OVERLAY.exe.config
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\bin\Debug\GDI OVERLAY.exe
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\bin\Debug\GDI OVERLAY.pdb
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI OVERLAY.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI_OVERLAY.Properties.Resources.resources
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI OVERLAY.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI OVERLAY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI OVERLAY.exe
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI OVERLAY.pdb
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI_OVERLAY.MainForm.resources
+C:\Users\Admin\Desktop\VS Apps\GDI OVERLAY\obj\Debug\GDI_OVERLAY.Overlay.resources
