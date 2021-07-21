@@ -16,4 +16,11 @@ Please make sure to update tests as appropriate.
 
 # GDI+ Overlay v2
 GTA V used as reference , Example Image
+
+FEATURES:
+- Toggle On / Off via Hotkeys
+- UI Indicator if On / Off
+- Show / Hide Menu
+- Quit Menu
+
 ![image](https://user-images.githubusercontent.com/80198020/126568236-596dd1a1-fe69-4224-9505-ea4f2070321b.png)
