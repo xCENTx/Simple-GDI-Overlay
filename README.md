@@ -12,3 +12,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ![SimpleGDIOverlay](https://user-images.githubusercontent.com/80198020/117887340-8c09ad80-b27e-11eb-9713-2b05034096a7.png)
+
+
+# GDI+ Overlay v2
+GTA V used as reference , Example Image
+![image](https://user-images.githubusercontent.com/80198020/126568236-596dd1a1-fe69-4224-9505-ea4f2070321b.png)
